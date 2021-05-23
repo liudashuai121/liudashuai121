@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liudashuai121
-- 👀 I’m interested in python
-- 🌱 I’m currently learning kafka
+- 👀 I’m interested in JAVA and BIGDATA
+- 🌱 I’m currently learning DW DataWarehouse
 - 💞️ I’m looking to collaborate on no
 - 📫 How to reach me concanct with my wechat lmx_233_ if you want
 
